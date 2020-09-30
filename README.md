@@ -2,7 +2,7 @@
 ![Welcome](https://i.pinimg.com/originals/5f/11/3d/5f113d0d66bf5a3ae36b49979ba9cf3c.gif "Welcome")
 
 # 🔭 I’m currently working as a freelance Frontend Developer at PrismaMedia>[Télé-Loisirs](https://www.programme-tv.net/)
-## 🌱 I’m currently learning computer science related stuff and programming concepts. 
+## 🌱 I’m learning computer science related stuff and programming concepts. 
 ### 👯 I’m looking to collaborate on creative, educative and/or community-driven projects.
 #### 🤔 I’m looking for help with advanced computing and programming concepts.
 ##### 💬 Ask me about anything ?!
