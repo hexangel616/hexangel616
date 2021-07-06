@@ -3,7 +3,5 @@
 
 # 🔭 I’m currently working as a freelance Frontend Developer at PrismaMedia>[Télé-Loisirs](https://www.programme-tv.net/)
 ## 🌱 I’m learning computer science related stuff, programming concepts and blockchain stuff. 
-### 👯 I’m looking to collaborate on creative projects.
+### 🍨 I’m looking to collaborate on creative projects.
 ###### 📫 How to reach me: @hexangel616
-
-🍨
